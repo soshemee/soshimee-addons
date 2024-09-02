@@ -9,7 +9,7 @@
 - **Party Commands**: Streamlines party management with useful commands.
 - **Auto Kick**: Automatically manages party members to keep gameplay smooth.
 - **SBE Blood Fix**: Resolves issues with SBE blood room mechanics.
-- **And Much, Much More!**: Includes additional features such as I4 Helper, Tick Timers, and much more! SoshimeeAddons provides an optimized dungeon experience.
+- **And Much, Much More!**: Includes additional features such as **I4 Helper**, **Tick Timers**, and much **more**! 
 
 ## Installation
 
@@ -38,5 +38,6 @@ Looks less awkward to have 2 or more questions.
 ---
 
 If you have any questions or issues, feel free to open an issue on the [GitHub Issues page](https://github.com/soshemee/soshimeeaddons/issues).
+I hope SoshimeeAddons provides an optimized dungeon experience.
 
 Enjoy!
