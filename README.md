@@ -18,6 +18,7 @@
 3. **Extract the Module**: Unzip the SoshimeeAddons folder and place the child folder inside of the zip file into .minecraft/config/ChatTriggers/modules directory. 
 
 (Essentialy just extract the ZIP file from releases.)
+
 4. **Register the Module**: In-game, type /ct reload to register the module to ChatTriggers.
 5. **Activate the Module**: In-game, type /sa to start using SoshimeeAddons.
 
